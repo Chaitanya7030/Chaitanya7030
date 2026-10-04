@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — 
+- **My First Project** — https://github.com/Chaitanya7030/Code-and-commit/blob/master/addition.py
 
 ## 📫 Connect With Me
 
